@@ -1,7 +1,3 @@
-# GeoPulse — Predicting Bike Demand Across New York City
-
-**Author:** Divyesh Jawkhede, IIT Kharagpur
-
 GeoPulse predicts how many Citi Bikes will be picked up and dropped off across New
 York City, 15 to 60 minutes in advance, and uses those predictions to plan bike
 rebalancing across the city. It's trained on two full years of real data
