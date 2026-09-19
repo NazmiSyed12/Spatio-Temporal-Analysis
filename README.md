@@ -86,6 +86,4 @@ python -m uvicorn app.server:app --reload --port 8000
 - **App:** FastAPI backend, map-based JS frontend
 - **Testing:** pytest
 
----
 
-*Built and documented by Divyesh Jawkhede, IIT Kharagpur.*
